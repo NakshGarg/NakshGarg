@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Naksh Garg<br>🚀 BTech CSE Student | Tech Enthusiast<br>💻 Passionate about AI, ML, Web Development, and Problem-Solving<br>🌟 Always exploring innovative ideas and contributing to exciting projects<br>📚 Lifelong learner, currently building skills in web development<br>✨ Let's connect and collaborate!
+👋 Hi, I'm Naksh Garg<br>🚀 BTech CSE Student | Tech Enthusiast<br>💻 Passionate about AI, ML, DSA,Programming, and Problem-Solving<br>🌟 Always exploring innovative ideas and contributing to exciting projects<br>📚 Lifelong learner, currently building skills in web development<br>✨ Let's connect and collaborate!
 
 ---
 
